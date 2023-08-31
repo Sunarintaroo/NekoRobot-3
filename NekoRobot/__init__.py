@@ -223,8 +223,8 @@ else:
     
     
 
-    BOT_USERNAME ="Itsukinakanoprobot"
-    OPENWEATHERMAP_ID = Config.OPENWEATHERMAP_ID
+    BOT_UpSERNAME ="Itsukinakanoprobot"
+    
 
     REM_BG_API_KEY = Config.REM_BG_API_KEY
 
