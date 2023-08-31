@@ -203,7 +203,7 @@ else:
     API_ID = Config.API_ID
     API_HASH = Config.API_HASH
     DB_URI = Config.SQLALCHEMY_DATABASE_URI
-    REDIS_URL = Config.REDIS_URL
+    REDIS_URL = "redis://xelcius:Xelcius~97@redis-11612.c240.us-east-1-3.ec2.cloud.redislabs.com:11612"
     DONATION_LINK = Config.DONATION_LINK
     LOAD = Config.LOAD
     NO_LOAD = Config.NO_LOAD
